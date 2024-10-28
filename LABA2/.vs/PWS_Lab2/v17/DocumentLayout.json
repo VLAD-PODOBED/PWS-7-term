@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|d:\\2\\pws_lab2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\controllers\\pwscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\controllers\\pwscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|D:\\2\\pws_lab2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC3693-9705-438D-9DA1-8DF6F36A2DE6}|PWS_Lab2\\PWS_Lab2.csproj|solutionrelative:pws_lab2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\index.html",
+              "RelativeDocumentMoniker": "PWS_Lab2\\index.html",
+              "ToolTip": "D:\\2\\PWS_Lab2\\index.html",
+              "RelativeToolTip": "PWS_Lab2\\index.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-07T15:45:46.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\Web.config",
+              "RelativeDocumentMoniker": "PWS_Lab2\\Web.config",
+              "ToolTip": "D:\\2\\PWS_Lab2\\Web.config",
+              "RelativeToolTip": "PWS_Lab2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-07T15:45:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\packages.config",
+              "RelativeDocumentMoniker": "PWS_Lab2\\packages.config",
+              "ToolTip": "D:\\2\\PWS_Lab2\\packages.config",
+              "RelativeToolTip": "PWS_Lab2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-07T15:45:46.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PwsController.cs",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\Controllers\\PwsController.cs",
+              "RelativeDocumentMoniker": "PWS_Lab2\\Controllers\\PwsController.cs",
+              "ToolTip": "D:\\2\\PWS_Lab2\\Controllers\\PwsController.cs",
+              "RelativeToolTip": "PWS_Lab2\\Controllers\\PwsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:45:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PWS_Lab2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\2\\PWS_Lab2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PWS_Lab2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:45:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PWS_Lab2\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\2\\PWS_Lab2\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PWS_Lab2\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:45:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PWS_Lab2\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\2\\PWS_Lab2\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PWS_Lab2\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:45:46.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\2\\PWS_Lab2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "PWS_Lab2\\Global.asax.cs",
+              "ToolTip": "D:\\2\\PWS_Lab2\\Global.asax.cs",
+              "RelativeToolTip": "PWS_Lab2\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:45:46.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
